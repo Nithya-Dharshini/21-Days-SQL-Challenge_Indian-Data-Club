@@ -20,7 +20,7 @@ The dataset was developed for the 21 Days SQL Challenge by the Indian Data Club,
 | service_weekly.csv | Weekly service records including bed availability and morale   |
 | staff_schedule.csv | Weekly attendance and staff assignment schedule                |
 
-### 🧠 Learning Goals
+### Learning Goals
 
 With these datasets, you’ll gain hands-on experience in both fundamental and advanced SQL techniques including:
 
@@ -30,7 +30,7 @@ With these datasets, you’ll gain hands-on experience in both fundamental and a
 - Solving practical hospital management scenarios
 - Sharpening skills for data analyst interviews and case studies
 
-### 💻 Usage Instructions
+### Usage Instructions
 
 1. Import CSV files into your chosen SQL database (e.g., MySQL, PostgreSQL, SQLite)
 2. Create tables reflecting the dataset structure:
