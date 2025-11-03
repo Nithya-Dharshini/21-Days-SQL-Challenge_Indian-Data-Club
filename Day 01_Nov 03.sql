@@ -1,3 +1,8 @@
+/* #SQLWithIDC 
+Day 1 (03/11): Introduction to SQL & SELECT Statement
+Topics: Basic SELECT, column selection, viewing data structure */
+
+
 -- Practice Qns
 
 -- Q1.Retrieve all columns from the patients table
