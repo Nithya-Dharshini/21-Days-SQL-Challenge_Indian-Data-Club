@@ -12,8 +12,8 @@ LIMIT 5;
 -- Q2.Show patients 11-20 using OFFSET.
 select *
 from patients
-limit 10
-offset 10;
+LIMIIT 10
+OFFSET 10;
 
 -- Q3.Get the 10 most recent patient admissions based on arrival_date.
 select *
